@@ -46,7 +46,7 @@ Insert gif or link to demo -->
 Clone the project
 
 ```bash
-  git clone https://github.com/Pruthvi-Tirmal/ShareMeFile
+  git clone https://github.com/Pruthvi-Tirmal/MeetMe
 ```
 
 Go to the project directory
